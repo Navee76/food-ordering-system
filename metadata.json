@@ -1,0 +1,6 @@
+{
+  "name": "FreshBite – Online Food Ordering",
+  "description": "A modern, appetizing online food delivery web application simulating real-world ordering, interactive cart, coupon discounts, order tracking, and account management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
